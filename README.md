@@ -1,0 +1,2 @@
+# Automated_Web_Testing
+使用Selenium+Pytest+PO+Allure搭建自动化框架实现自动化Web测试
